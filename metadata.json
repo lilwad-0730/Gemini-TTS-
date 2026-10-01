@@ -1,0 +1,6 @@
+{
+  "name": "Vocalis - Gemini Flash TTS Studio",
+  "description": "Convert uploaded text documents into natural, studio-quality speech using Gemini Flash TTS with customizable voice tones, pacing, and real-time playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
